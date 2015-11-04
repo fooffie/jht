@@ -1,0 +1,11 @@
+{
+	"name": "jht",
+	"version": "0.0.1",
+	"author": "fay fooksie",
+	"description": "json html template",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/fooffie/jht.git"
+		}
+	}
